@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Juan Sebastian Hoyos Padilla</h1>
-<h3 align="center">Soy Desarrollador FullStack</h3>
+<h3 align="center">Soy Desarrollador Frontend</h3>
 
 - 💬 Ask me about **HTML5, JavaScript, Reactjs, Nodejs, MongoDB, CSS**
 
