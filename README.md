@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I am Juan Hoyos Padilla</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 <img src="https://github.com/JuanHoyosPadilla/JuanHoyosPadilla/assets/50926052/ea8c5e0d-a800-4b87-81bd-3af5cdf849ff" alt="LinkedIn">
 </br>
