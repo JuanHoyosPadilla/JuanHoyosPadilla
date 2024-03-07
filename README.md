@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/CSS3-09A7FC.svg?&style=flat-square&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/JAVASCRIPT-E9FC09.svg?&style=flat-square&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/REACT.JS-09A4FC.svg?&style=flat-square&logo=react&logoColor=white">
+ <img src="https://img.shields.io/badge/VITE.JS-000203.svg?&style=flat-square&logo=vite&logoColor=white">
 </p>
 </br>
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My statistics</h2>
